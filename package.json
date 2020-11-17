@@ -1,0 +1,23 @@
+{
+  "name": "yavirchat",
+  "version": "1.0.0",
+  "description": "telegram chat yavir",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mish-hash/yavirChat.git"
+  },
+  "author": "mish-hash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mish-hash/yavirChat/issues"
+  },
+  "homepage": "https://github.com/Mish-hash/yavirChat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.1"
+  }
+}
